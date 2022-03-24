@@ -1,7 +1,5 @@
 ### Salut, je suis Stéphane Kikoni Software Engineer. 👋
 
-[<img align="left" alt="React js" width="25px" src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">" style="padding-right:11px;">]
-
           
 
 <!--
