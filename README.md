@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salut, je suis Stéphane Kikoni Software Engineer. 👋
 
 <!--
 **StephaneCash/StephaneCash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
