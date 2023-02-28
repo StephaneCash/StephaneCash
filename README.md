@@ -1,4 +1,4 @@
-### Salut, je suis Stéphane Kikoni Software Engineer. J'habite la ville de Kinshasa en République Démocratique du Congo (RDC), j'évolue dans la FinTech. Je suis développeur web avec des technologies comme Javascript : React js, Angular, Node js, Jquery; PHP : Laravel; Arduino; HTML5 et CSS3 👋
+### Salut, je suis Stéphane Kikoni Software Engineer. J'habite la ville de Kinshasa en République Démocratique du Congo (RDC), j'évolue dans la FinTech. Je suis développeur FullStack avec des technologies comme Javascript : React js, React Native, Angular, Node js, Jquery; PHP : Laravel; TypeScript; Arduino; HTML5 et CSS3. Aussi Docker, GitLab et Nginx. 👋
 
           
 
