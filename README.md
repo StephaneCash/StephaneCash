@@ -1,4 +1,4 @@
-### Salut, je suis Stéphane Kikoni Software Engineer. J'évolue avec des technologies Javascript : Spring Boot, React js, React Native, Angular, Node js, Jquery; PHP : Laravel; TypeScript; Arduino; HTML5 et CSS3. Aussi Docker, GitLab et Nginx. 👋
+### Salut, je suis Stéphane Kikoni Software Engineer. J'évolue avec des technologies Javascript : React js, React Native, Angular, Node js,Jquery; PHP : Laravel; TypeScript; Arduino; HTML5 et CSS3. Aussi Docker, GitLab et Nginx. 👋
 
           
 
