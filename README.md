@@ -1,18 +1,61 @@
-### Salut, je suis Stéphane Kikoni Software Engineer. J'évolue avec des technologies Javascript : React js, React Native, Angular, Node js,Jquery; PHP : Laravel; TypeScript; Arduino; HTML5 et CSS3. Aussi Docker, GitLab et Nginx. 👋
+# 👋 Salut, je suis Stéphane Kikoni
 
-          
+### Senior Software Engineer • Software Architect • Full-Stack Developer
 
-<!--
-**StephaneCash/StephaneCash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je conçois et développe des applications **scalables, performantes et maintenables**, avec une forte orientation vers l'architecture logicielle, le backend et les systèmes distribués.
 
-Here are some ideas to get you started:
+Je travaille principalement avec **JavaScript / TypeScript**, de la conception d'API et de services backend jusqu'aux applications web et mobiles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies & outils
+
+**Frontend & Mobile**
+- React.js
+- React Native
+- HTML5 / CSS3
+- jQuery
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+- Microservices
+
+**Languages**
+- JavaScript
+- TypeScript
+- C / Arduino
+
+**Databases & Infrastructure**
+- PostgreSQL
+- MySQL
+- Sequelize
+- Docker
+- Nginx
+
+**Architecture & Engineering**
+- Clean Architecture
+- Hexagonal Architecture
+- Domain-Driven Design (DDD)
+- SOLID
+- Clean Code
+- Design Patterns
+- CI/CD
+- Git / GitLab
+
+### 🧠 Ce qui m'intéresse
+
+- Architecture logicielle
+- Systèmes distribués & microservices
+- Backend haute performance
+- Applications Web & Mobile
+- Optimisation et scalabilité
+- Automatisation & CI/CD
+- Conception de solutions robustes et maintenables
+
+> **Build it. Scale it. Keep it clean. 🚀**
+
+---
+
+### 📫 Let's connect
+
+Je suis toujours intéressé par les projets ambitieux, les problèmes techniques complexes et les opportunités de construire des solutions qui ont un réel impact.
