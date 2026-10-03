@@ -12,7 +12,6 @@ Je travaille principalement avec **JavaScript / TypeScript**, de la conception d
 - React.js
 - React Native
 - HTML5 / CSS3
-- jQuery
 
 **Backend**
 - Node.js
